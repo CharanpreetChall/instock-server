@@ -1,0 +1,50 @@
+[
+    {
+        "WarehouseName": "Manhattan",
+        "WarehouseAddress": "503 Broadway Avenue",
+        "WarehouseCity": "New York",
+        "WarehouseCountry": "USA"
+    },
+    {
+        "WarehouseName": "Washington",
+        "WarehouseAddress": "33 Pearl Street SW",
+        "WarehouseCity": "Washington",
+        "WarehouseCountry": "USA"
+    },
+    {
+        "WarehouseName": "Jersey",
+        "WarehouseAddress": "300 Main Street",
+        "WarehouseCity": "New Jersey",
+        "WarehouseCountry": "USA" 
+    },
+    {
+        "WarehouseName": "San Fran",
+        "WarehouseAddress": "890 Brannnan Street",
+        "WarehouseCity": "San Francisco",
+        "WarehouseCountry": "USA"
+    },
+    {
+        "WarehouseName": "Santa Monica",
+        "WarehouseAddress": "520 Broadway Avenue",
+        "WarehouseCity": "Santa Monica",
+        "WarehouseCountry": "USA"
+    },
+    {
+        "WarehouseName": "Seattle",
+        "WarehouseAddress": "1201 Third Avenue",
+        "WarehouseCity": "Seattle",
+        "WarehouseCountry": "USA"
+    },
+    {
+        "WarehouseName": "Miami",
+        "WarehouseAddress": "2650 NW 5th Avenue",
+        "WarehouseCity": "Miami",
+        "WarehouseCountry": "USA"
+    },
+    {
+        "WarehouseName": "Boston",
+        "WarehouseAddress": "215 Essex Street",
+        "WarehouseCity": "Boston",
+        "WarehouseCountry": "USA"
+    }
+]

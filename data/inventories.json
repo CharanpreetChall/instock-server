@@ -1,0 +1,623 @@
+[
+    {
+        "ItemName": "Gym Bag",
+        "ItemDescription": "Made out of military-grade synthetic materials, this gym bag is highly durable, water resistant, and easy to clean.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 13,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Hoodie",
+        "ItemDescription": "A simple 100% cotton hoodie, this is an essential piece for any wardrobe.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Keychain",
+        "ItemDescription": "Made from 100% genuine leather, this keychain will keep your keys organized while keeping a classic, professional look.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 2000,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Shampoo",
+        "ItemDescription": "Natural shampoo made from 99% biodegradable ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 4350,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Phone Charger",
+        "ItemDescription": "This USB-C phone charger features fast charging for the latest devices.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 10000,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Tent",
+        "ItemDescription": "Perfect for spring or summer camping, this 1-person tent is easy to pack and has the option to become modular when used with other products.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 800,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Winter Jacket",
+        "ItemDescription": "Made with a durable 100% waterproof shell, and breathable layers without a ton of vents and perforations. breathable layers without a ton of vents and perforations.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Watch",
+        "ItemDescription": "Crafted from premium materials including a full-grain leather strap and a stainless steel case, this watch features swiss movement and is waterproof up to 5 ATM.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Soap",
+        "ItemDescription": "Organic and hypoallergenic, this soap is safe to use for all skin types.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 12500,
+        "ItemWarehouseId": 1,
+        "ItemWarehouse": "Manhattan"
+    },
+    {
+        "ItemName": "Monitor",
+        "ItemDescription": "A 32\" IPS LED ultrawide monitor, perfect for work or gaming.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Backpack",
+        "ItemDescription": "This sleek, 40L backpack is completely waterproof making it perfect for adventures or the daily commute.",
+        "itemCategory": "Gear",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "T-Shirt",
+        "ItemDescription": "Breathable, and made of 100% organic cotton, this is an essential piece for any wardrobe",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Belt",
+        "ItemDescription": "Made from 100% full grain leather this belt will go with any dress or casual outfit.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Toothpaste",
+        "ItemDescription": "This toothpaste is specially formulated to protect enamel and whiten teeth with natural ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 4000,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Mouse",
+        "ItemDescription": "With a 1-month battery life this mouse is perfect for travel and productivity.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 785,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Sleeping Bag",
+        "ItemDescription": "This ultra-light sleeping bag is packed with an eco-friendly fill. Best used in spring or summer temperatures.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 987,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Windbreaker",
+        "ItemDescription": "Made from waterproof material, this windbreaker is best layered on top of a sweater to keep warm in inclement conditions.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 1185,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Water Bottle",
+        "ItemDescription": "With a 1-litre capacity and BPA-free, this water-bottle is perfect for long days out.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Protein Powder",
+        "ItemDescription": "100% natural plant-based protein powder from organic ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 2,
+        "ItemWarehouse": "Washington"
+    },
+    {
+        "ItemName": "Television",
+        "ItemDescription": "This 50\", 4K LED TV provides a crystal-clear picture and vivid colors.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Gym Bag",
+        "ItemDescription": "Made out of military-grade synthetic materials, this gym bag is highly durable, water resistant, and easy to clean.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 565,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Hoodie",
+        "ItemDescription": "A simple 100% cotton hoodie, this is an essential piece for any wardrobe.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 245,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Keychain",
+        "ItemDescription": "Made from 100% genuine leather, this keychain will keep your keys organized while keeping a classic, professional look.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Shampoo",
+        "ItemDescription": "Natural shampoo made from 99% biodegradable ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 209,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Phone Charger",
+        "ItemDescription": "This USB-C phone charger features fast charging for the latest devices.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Tent",
+        "ItemDescription": "Perfect for spring or summer camping, this 1-person tent is easy to pack and has the option to become modular when used with other products.",
+        "itemCategory": "Gear",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Winter Jacket",
+        "ItemDescription": "Made with a durable 100% waterproof shell, and breathable layers without a ton of vents and perforations. ",
+        "itemCategory": "Apparel",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 125,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Watch",
+        "ItemDescription": "Crafted from premium materials including a full-grain leather strap and a stainless steel case, this watch features swiss movement and is waterproof up to 5 ATM.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 123,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Soap",
+        "ItemDescription": "Organic and hypoallergenic, this soap is safe to use for all skin types.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 863,
+        "ItemWarehouseId": 3,
+        "ItemWarehouse": "Jersey"
+    },
+    {
+        "ItemName": "Monitor",
+        "ItemDescription": "A 32\" IPS LED ultrawide monitor, perfect for work or gaming.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 50,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Backpack",
+        "ItemDescription": "This sleek, 40L backpack is completely waterproof making it perfect for adventures or the daily commute.",
+        "itemCategory": "Gear",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "T-Shirt",
+        "ItemDescription": "Breathable, and made of 100% organic cotton, this is an essential piece for any wardrobe",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Belt",
+        "ItemDescription": "Made from 100% full grain leather this belt will go with any dress or casual outfit.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Toothpaste",
+        "ItemDescription": "This toothpaste is specially formulated to protect enamel and whiten teeth with natural ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 400,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Mouse",
+        "ItemDescription": "With a 1-month battery life this mouse is perfect for travel and productivity.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 1275,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Sleeping Bag",
+        "ItemDescription": "This ultra-light sleeping bag is packed with an eco-friendly fill. Best used in spring or summer temperatures.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 5672,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Windbreaker",
+        "ItemDescription": "Made from waterproof material, this windbreaker is best layered on top of a sweater to keep warm in inclement conditions.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 374,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Water Bottle",
+        "ItemDescription": "With a 1-litre capacity and BPA-free, this water-bottle is perfect for long days out.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 9875,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Protein Powder",
+        "ItemDescription": "100% natural plant-based protein powder from organic ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 4,
+        "ItemWarehouse": "San Fran"
+    },
+    {
+        "ItemName": "Television",
+        "ItemDescription": "This 50\", 4K LED TV provides a crystal-clear picture and vivid colors.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Gym Bag",
+        "ItemDescription": "Made out of military-grade synthetic materials, this gym bag is highly durable, water resistant, and easy to clean.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 1895,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Hoodie",
+        "ItemDescription": "A simple 100% cotton hoodie, this is an essential piece for any wardrobe.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Keychain",
+        "ItemDescription": "Made from 100% genuine leather, this keychain will keep your keys organized while keeping a classic, professional look.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Shampoo",
+        "ItemDescription": "Natural shampoo made from 99% biodegradable ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 4774,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Phone Charger",
+        "ItemDescription": "This USB-C phone charger features fast charging for the latest devices.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 9872,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Tent",
+        "ItemDescription": "Perfect for spring or summer camping, this 1-person tent is easy to pack and has the option to become modular when used with other products.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 3349,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Winter Jacket",
+        "ItemDescription": "Made with a durable 100% waterproof shell, and breathable layers without a ton of vents and perforations. ",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Watch",
+        "ItemDescription": "Crafted from premium materials including a full-grain leather strap and a stainless steel case, this watch features swiss movement and is waterproof up to 5 ATM.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 2997,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Soap",
+        "ItemDescription": "Organic and hypoallergenic, this soap is safe to use for all skin types.",
+        "itemCategory": "Health",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 5,
+        "ItemWarehouse": "Santa Monica"
+    },
+    {
+        "ItemName": "Monitor",
+        "ItemDescription": "A 32\" IPS LED ultrawide monitor, perfect for work or gaming.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Backpack",
+        "ItemDescription": "This sleek, 40L backpack is completely waterproof making it perfect for adventures or the daily commute.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 607,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "T-Shirt",
+        "ItemDescription": "Breathable, and made of 100% organic cotton, this is an essential piece for any wardrobe",
+        "itemCategory": "Apparel",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 1205,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Belt",
+        "ItemDescription": "Made from 100% full grain leather this belt will go with any dress or casual outfit.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 9863,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Toothpaste",
+        "ItemDescription": "This toothpaste is specially formulated to protect enamel and whiten teeth with natural ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 1230,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Mouse",
+        "ItemDescription": "With a 1-month battery life this mouse is perfect for travel and productivity.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Sleeping Bag",
+        "ItemDescription": "This ultra-light sleeping bag is packed with an eco-friendly fill. Best used in spring or summer temperatures.",
+        "itemCategory": "Gear",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Windbreaker",
+        "ItemDescription": "Made from waterproof material, this windbreaker is best layered on top of a sweater to keep warm in inclement conditions.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 4508,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Water Bottle",
+        "ItemDescription": "With a 1-litre capacity and BPA-free, this water-bottle is perfect for long days out.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 2500,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Protein Powder",
+        "ItemDescription": "100% natural plant-based protein powder from organic ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 6,
+        "ItemWarehouse": "Seattle"
+    },
+    {
+        "ItemName": "Television",
+        "ItemDescription": "This 50\", 4K LED TV provides a crystal-clear picture and vivid colors.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 1300,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Gym Bag",
+        "ItemDescription": "Made out of military-grade synthetic materials, this gym bag is highly durable, water resistant, and easy to clean.",
+        "itemCategory": "Gear",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Hoodie",
+        "ItemDescription": "A simple 100% cotton hoodie, this is an essential piece for any wardrobe.",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Keychain",
+        "ItemDescription": "Made from 100% genuine leather, this keychain will keep your keys organized while keeping a classic, professional look.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 298,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Shampoo",
+        "ItemDescription": "Natural shampoo made from 99% biodegradable ingredients.",
+        "itemCategory": "Health",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 2888,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Phone Charger",
+        "ItemDescription": "This USB-C phone charger features fast charging for the latest devices.",
+        "itemCategory": "Electronics",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 983,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Tent",
+        "ItemDescription": "Perfect for spring or summer camping, this 1-person tent is easy to pack and has the option to become modular when used with other products.",
+        "itemCategory": "Gear",
+        "ItemStatus": "In Stock",
+        "ItemQuantity": 1406,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Winter Jacket",
+        "ItemDescription": "Made with a durable 100% waterproof shell, and breathable layers without a ton of vents and perforations. ",
+        "itemCategory": "Apparel",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Watch",
+        "ItemDescription": "Crafted from premium materials including a full-grain leather strap and a stainless steel case, this watch features swiss movement and is waterproof up to 5 ATM.",
+        "itemCategory": "Accessories",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    },
+    {
+        "ItemName": "Soap",
+        "ItemDescription": "Organic and hypoallergenic, this soap is safe to use for all skin types.",
+        "itemCategory": "Health",
+        "ItemStatus": "Out of Stock",
+        "ItemQuantity": 0,
+        "ItemWarehouseId": 7,
+        "ItemWarehouse": "Miami"
+    }
+]
